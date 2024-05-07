@@ -1,2 +1,2 @@
 # ConfigExtension
-Prueba de una extensión de configuración
+Este archivo se ha creado para hacer pruebas en la creación de un archivo de configuración.
