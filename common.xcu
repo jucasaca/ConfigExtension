@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<oor:component-data oor:name="Common" oor:package="org.openoffice.Office"
+	xmlns:oor="http://openoffice.org/2001/registry" 
+	xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<node oor:name="Security">
+		<node oor:name="Scripting">
+			<prop oor:name="SecureURL" oor:type="oor:string-list" oor:finalized="false">
+				<value>C:/KK/BD</value>
+			</prop>
+		</node>
+	</node>
+</oor:component-data>
